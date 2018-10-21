@@ -4,3 +4,4 @@ git is  a   version control system!
 git 是 一个  版本    控制    系统 !
 
 git is free software.
+git 是 免费  软件。
