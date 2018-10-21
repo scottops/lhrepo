@@ -1,0 +1,4 @@
+hello  world!
+你 好  世 界！
+git is  a   version control system!
+git 是 一个  版本    控制    系统 !
